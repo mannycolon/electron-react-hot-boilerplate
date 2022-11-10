@@ -27,7 +27,7 @@
     "express": "^4.16.2",
     "react-hot-loader": "^4.12.11",
     "webpack": "^4.39.2",
-    "webpack-cli": "^3.3.6",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-middleware": "^3.7.0",
     "webpack-hot-middleware": "^2.25.0"
   },
